@@ -1,0 +1,13 @@
+{
+  "defaultProject": "front-end",
+  "projects": {
+    "front-end": {
+      "name": "front-end",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "apps\\front-end"
+    }
+  }
+}

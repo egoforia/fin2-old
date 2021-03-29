@@ -1,0 +1,13 @@
+{
+  "appId": "br.com.egoforia.fin",
+  "appName": "Fin",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "../../dist/apps/front-end",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
